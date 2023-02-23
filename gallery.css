@@ -1,0 +1,99 @@
+.gallery {
+  display: grid;
+  grid-template-columns: auto auto;
+}
+.galleryImage {
+  text-align: center;
+  border: 1px solid white;
+  padding: 8vh;
+  font-size: 3vh;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: bold;
+}
+
+body.background {
+  background-color: #686866;
+  padding-top: 5px;
+  padding-right: 100px;
+  padding-bottom: 5px;
+  padding-left: 100px;
+}
+h1.heading,
+h2.heading {
+  text-align: center;
+  color: white;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  padding-top: 10px;
+  padding-right: 20px;
+  padding-bottom: 50px;
+  padding-left: 20px;
+}
+
+.centre {
+  text-align: center;
+}
+.portfolio {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 18px;
+  text-align: center;
+  color: cornsilk;
+  background-color: grey;
+  width: 800px;
+  border: 1px solid cornsilk;
+  padding: 3vh;
+  margin-left: 30vh;
+}
+button {
+  text-align: center;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+table {
+  text-align: center;
+  color: white;
+  font-size: 3vh;
+  padding-left: 20%;
+  padding-bottom: 1%;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+form {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 20px;
+}
+#nunhead {
+  color: darkseagreen;
+}
+#eventide {
+  color: lightblue;
+}
+#ballymacaw {
+  color: darksalmon;
+}
+#alpenglow {
+  color: lightpink;
+}
+#elephant {
+  color: gold;
+}
+#aurora {
+  color: mediumpurple;
+}
+#quote {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-style: italic;
+  text-align: right;
+}
+#saved {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 50px;
+  width: 200px;
+  margin: 0 auto;
+}

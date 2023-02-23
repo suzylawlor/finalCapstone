@@ -1,0 +1,65 @@
+body.background {
+  background-color: #686866;
+  padding-top: 5px;
+  padding-right: 100px;
+  padding-bottom: 20px;
+  padding-left: 100px;
+  
+}
+h1.heading {
+  text-align: center;
+  color: white;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  padding-top: 10px;
+  padding-right: 20px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+}
+
+h3.bioTitle {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-style: bold;
+  color: white;
+  width: 25%;
+  font-size: 2vh;
+  padding-left: 3vh;
+}
+
+.bio {
+  color: black;
+  font-size: 2vh;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+form {
+    text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+
+#aboutPara {
+  background-color: grey;
+  width: 1200px;
+  text-align: center;
+  font-size: 3vh;
+  border: 1px solid white;
+ padding: 3vh;
+  
+}
+#link {
+  color: lightgray;
+}
+#centre {
+    text-align: center;
+}
+.interested {
+  
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  text-align: center;
+  font-size: 2vh;
+  color: cornsilk;
+  
+}
